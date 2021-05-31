@@ -7,7 +7,7 @@
 - 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=odp2WtkAAAAJ)  
 - 🏆 I use Python / PyTorch / TensorFlow / OpenCV / C++ / MATLAB / etc.      
 - 🌱 I just finished an internship at [DeepThink,](http://www.deeptk.com/) Hangzhou / 杭州深想科技实习  
-- 👯 I will work in [Dahua Vehicle Tech](https://baike.baidu.com/item/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%8D%8E%E6%B1%BD%E8%BD%A6%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/51305892?fr=aladdin). Hangzhou / 将在大华汽车技术有限公司工作  
+- 👯 I will work in [Dahua Vehicle Tech](https://baike.baidu.com/item/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%8D%8E%E6%B1%BD%E8%BD%A6%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/51305892?fr=aladdin). Hangzhou / 将在大华汽车技术（华锐捷）有限公司工作  
 - 🤔 I am focusing on Intelligent Vehicle and Autonomous Driving/ 专注于智能车与自动驾驶  
 - 💬 I am interest in Computer Vision (2D/3D object detection, tracking, etc) / 计算机视觉感知  
 - 📫 How to reach me: zhang.10749@osu.edu / 邮箱  
