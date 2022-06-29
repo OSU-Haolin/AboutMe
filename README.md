@@ -2,7 +2,7 @@
 
 ### Here is my profile:  
 
-- 🔭 Graduated from The Ohio State University / 美国俄亥俄州立大学工程硕士  
+- 🔭 Graduated from The Ohio State University / 美国俄亥俄州立大学硕士  
 - ⚡  Lab: [OSU-CITR](https://citr.osu.edu/people.html) (Control and Intelligent Transportation Research) / 美国俄亥俄州立大学控制与智能交通研究实验室
 - 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=odp2WtkAAAAJ)  
 - 🏆 I use Python / PyTorch / TensorFlow / OpenCV / C++ / MATLAB / etc.      
