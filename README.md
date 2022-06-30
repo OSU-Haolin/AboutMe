@@ -1,19 +1,16 @@
-👋 My name is Haolin Zhang and I work as a Algorithm Engineer in the field of Intelligent Vehicle.  
+👋 My name is Haolin Zhang and I work in the field of Intelligent Vehicle.  
 
 ### Here is my profile:  
 
-- 🔭 Graduated from The Ohio State University / 美国俄亥俄州立大学硕士  
-- ⚡  Lab: [OSU-CITR](https://citr.osu.edu/people.html) (Control and Intelligent Transportation Research) / 美国俄亥俄州立大学控制与智能交通研究实验室
+- 🔭 M.S. Graduated from The Ohio State University (2021/05)
+- ⚡ Lab: [OSU-CITR](https://citr.osu.edu/people.html) (Control and Intelligent Transportation Research) 
 - 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=odp2WtkAAAAJ)  
 - 🏆 I use Python / PyTorch / TensorFlow / OpenCV / C++ / MATLAB / etc.      
-- 🌱 Internship at DeepThink, Hangzhou / 深想科技，杭州，计算机视觉工程师，实习，图像视觉安防、工业检测等  
-- 👯 Worked at Dahua Technology - HuaRuiJie / 华锐捷（大华股份子公司），杭州，智能算法工程师，汽车安防，智能车载
-- 👯 Will work as full-time research assistant at Xi'an Jiaotong University / 西安交通大学，专职科研助理，西安，人工智能与机器人 
-- 🤔 I am focusing on Intelligent Vehicle and Autonomous Driving/ 专注于智能车与自动驾驶  
-- 💬 I am interested in Computer Vision (2D/3D object detection, tracking, etc) and Deep Learning / 兴趣领域：计算机视觉与深度学习 
-- 📫 How to reach me: zhang.10749@osu.edu / 邮箱  
-- 😄 WeChat: zhanghaolin1996 / 微信  
-
+- 🌱 Internship at DeepThink, Hangzhou (Computer Vision in the field of retail business and industry) (2020/12-2021/06)
+- 🌱 Worked at Dahua Technology - HuaRuiJie (Computer Vision including 2D detection, segmentation, classification in ADAS for LeapMotor) (2021/06-2022/06)
+- 👯 Work as full-time research assistant at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (2022/06-Now)
+- 🤔 I am focusing on Intelligent Vehicle and Autonomous Driving, and insterested in Computer Vision and Deep Learning 
+- 📫 Email: zhang.10749@osu.edu, zhanghaolin1996@gmail.com, haolin19961213@163.com, Wechat: zhanghaolin1996
 
 ### Links:
 <p align="center">
