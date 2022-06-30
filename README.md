@@ -1,15 +1,19 @@
-👋 My name is Haolin Zhang and I work in the field of Intelligent Vehicle.  
+👋 My name is Haolin Zhang and I am focusing on Intelligent Vehicle and Autonomous Driving, and insterested in Computer Vision and Deep Learning 
 
 ### Here is my profile:  
+----------------------------------------------------------------------------------------------------------------------------------------
+- 🔭 M.S. Graduated from [OSU-CITR](https://citr.osu.edu/people.html) (Control and Intelligent Transportation Research), The Ohio State University (2021/05)  
+- ⚡ Github Homepage: [https://github.com/OSU-Haolin]
+----------------------------------------------------------------------------------------------------------------------------------------
+- 🔭 Work as full-time research assistant at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (2022/06-Now)
+- ⚡ Github Homepage: [https://github.com/XJTU-Haolin]
+----------------------------------------------------------------------------------------------------------------------------------------
+- 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=odp2WtkAAAAJ)       
+- 🏆 Internship at DeepThink, Hangzhou (Computer Vision in the field of retail business and industry) (2020/12-2021/06)
+- 🏆 Worked at Dahua Technology - HuaRuiJie (Computer Vision including 2D detection, segmentation and classification in ADAS for LeapMotor) (2021/06-2022/06)
+- 🏆 [Faraway-Frustum](https://github.com/dongfang-steven-yang/faraway-frustum) for faraway object 3D detection in [KITTI benchmark](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=48cc1c0c27874e2cc19cbcc76654e9a01c5403a0)
+----------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 M.S. Graduated from The Ohio State University (2021/05)
-- ⚡ Lab: [OSU-CITR](https://citr.osu.edu/people.html) (Control and Intelligent Transportation Research) 
-- 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=odp2WtkAAAAJ)  
-- 🏆 I use Python / PyTorch / TensorFlow / OpenCV / C++ / MATLAB / etc.      
-- 🌱 Internship at DeepThink, Hangzhou (Computer Vision in the field of retail business and industry) (2020/12-2021/06)
-- 🌱 Worked at Dahua Technology - HuaRuiJie (Computer Vision including 2D detection, segmentation, classification in ADAS for LeapMotor) (2021/06-2022/06)
-- 👯 Work as full-time research assistant at Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University (2022/06-Now)
-- 🤔 I am focusing on Intelligent Vehicle and Autonomous Driving, and insterested in Computer Vision and Deep Learning 
 - 📫 Email: zhang.10749@osu.edu, zhanghaolin1996@gmail.com, haolin19961213@163.com, Wechat: zhanghaolin1996
 
 ### Links:
